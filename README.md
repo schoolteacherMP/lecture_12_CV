@@ -1,4 +1,5 @@
-# CV
+# CV  
+# [Советы по выполнению Базовые ](https://github.com/schoolteacherMP/lecture_13_1_portfolio/blob/main/ImplementationTips.md)  
 ## Требования к вёрстке  
 ## Вёрстка валидная   
 - для проверки валидности вёрстки используйте сервис https://validator.w3.org/  
